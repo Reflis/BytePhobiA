@@ -1,0 +1,10 @@
+﻿1>------ Build started: Project: ConsoleApp1, Configuration: Debug Any CPU ------
+1>  ConsoleApp1 -> C:\BytePhobiA\ConsoleApp1.exe
+Building ConsoleApp1...
+2>------ Publish started: Project: ConsoleApp1, Configuration: Debug Any CPU ------
+Connecting to 'C:\BytePhobiA\ConsoleApp1\publish\'...
+Publishing files...
+Publish success.
+C:\BytePhobiA\ConsoleApp1\publish\
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Publish: 1 succeeded, 0 failed, 0 skipped ==========
